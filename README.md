@@ -19,18 +19,18 @@ A development environment (e.g., Visual Studio Code, CLion)
 Installation
 Clone the repository:
 
-bash
+
 Copy code
 git clone https://github.com/yourusername/hotel-management-system.git
 cd hotel-management-system
 Compile the code:
 
-bash
+
 Copy code
 g++ -o hotel_management_system main.cpp
 Run the program:
 
-bash
+
 Copy code
 ./hotel_management_system
 Usage
